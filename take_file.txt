@@ -1,0 +1,1 @@
+hello we are rewritten and have a good practice of writing text in file mode

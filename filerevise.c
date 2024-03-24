@@ -12,7 +12,7 @@ int main(void){
         fprintf(file_ptr,"yes data written\n");
     }
 
-
+    fclose(file_ptr);
 
 
     return 0;
