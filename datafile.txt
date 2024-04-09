@@ -1,0 +1,3 @@
+0 : yes we have done the file operations
+1 : afterthat we have done it
+2 : successfully all operations into the file have been done
